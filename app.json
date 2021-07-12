@@ -2,5 +2,6 @@
   "name": "canil",
   "description": "Canil é um app para adoção de Pets.",
   "repository": "https://github.com/LuizPedroSM/canil",
+  "logo": "https://raw.githubusercontent.com/LuizPedroSM/canil/master/.github/img/favicon.png",
   "keywords": ["node", "express"]
 }

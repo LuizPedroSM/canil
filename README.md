@@ -76,7 +76,15 @@ npm run start-dev
 
 ## 🚀 Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+```bash
+heroku create
+git push heroku main
+heroku open
+```
+
+ou
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LuizPedroSM/canil)
 
 ---
 
