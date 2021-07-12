@@ -1,0 +1,6 @@
+{
+  "name": "canil",
+  "description": "Canil é um app para adoção de Pets.",
+  "repository": "https://github.com/LuizPedroSM/canil",
+  "keywords": ["node", "express"]
+}
