@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img alt="Home" title="Home" src=".github/img/home.png" />
+    <img alt="Home" title="Home" src=".github/img/homeUpdate.png" />
 </p>
 
 ## 💻 Projeto
